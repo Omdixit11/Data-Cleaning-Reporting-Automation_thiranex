@@ -1,9 +1,2 @@
 venv/
 .venv/
-__pycache__/
-output/
-*.pyc
-*.pyo
-*.pyd
-*.log
-.DS_Store
