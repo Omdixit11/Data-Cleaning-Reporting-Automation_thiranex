@@ -1,0 +1,7 @@
+Data Cleaning & Reporting Automation
+===============================
+rows_after_cleaning: 14
+columns_after_cleaning: 7
+dropped_columns: None
+duplicates_removed: 1
+missing_values_remaining: 3
